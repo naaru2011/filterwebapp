@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: gold;
+}
+.btn-success:hover{
+    background-color: red;
+}
+canvas{
+ border:5px solid black;   
+}
